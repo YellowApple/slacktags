@@ -1,3 +1,13 @@
+# Add
+diffutils:ADD
+groff:ADD
+libx86:ADD
+linuxdoc-tools:ADD
+sqlite:ADD
+texinfo:ADD
+vim:ADD
+
+# Skip
 a2ps:SKP
 acct:SKP
 alsa-utils:SKP
@@ -12,7 +22,6 @@ cdrtools:SKP
 dc3dd:SKP
 ddrescue:SKP
 diffstat:SKP
-diffutils:ADD
 dmapi:SKP
 dmidecode:SKP
 dvd+rw-tools:SKP
@@ -22,7 +31,6 @@ foomatic-filters:SKP
 ghostscript:SKP
 ghostscript-fonts-std:SKP
 gphoto2:SKP
-groff:ADD
 gutenprint:SKP
 hplip:SKP
 htop:SKP
@@ -32,8 +40,6 @@ jed:SKP
 joe:SKP
 jove:SKP
 ksh93:SKP
-libx86:ADD
-linuxdoc-tools:ADD
 lm_sensors:SKP
 lsof:SKP
 lsscsi:SKP
@@ -59,14 +65,11 @@ seejpeg:SKP
 slackpkg:SKP
 soma:SKP
 sox:SKP
-sqlite:ADD
 sudo:SKP
 sysstat:SKP
 terminus-font:SKP
-texinfo:ADD
 tmux:SKP
 vbetool:SKP
-vim:ADD
 vorbis-tools:SKP
 workbone:SKP
 xfsdump:SKP
