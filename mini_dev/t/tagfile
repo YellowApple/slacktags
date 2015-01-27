@@ -1,0 +1,7 @@
+# Add
+tetex:ADD
+
+# Skip
+tetex-doc:SKP
+transfig:SKP
+xfig:SKP
